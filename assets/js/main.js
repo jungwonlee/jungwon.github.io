@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Jungwon Lee.", "A Data Analyst.", "A Data Story Teller.", "An Indie-Music Listener", "A Sunset Connoisseur."],
+      strings: ["Jungwon Lee.", "A Data Analyst.", "A Data Story Teller.", "An Indie-Music Listener.", "A Sunset Connoisseur."],
       typeSpeed: 100,
       loop: true,
     });
